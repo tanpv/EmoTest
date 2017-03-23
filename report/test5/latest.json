@@ -1,0 +1,62 @@
+{
+  "errors": {
+    "cog_exc": 0.0, 
+    "cog_eng": 0.0, 
+    "fac_all": 0.0, 
+    "cog_all": 0.0, 
+    "cog_foc": 0.0, 
+    "cog_rel": 0.0, 
+    "cog_int": 0.0, 
+    "fac_low": 0.0, 
+    "fac_upp": 0.0, 
+    "cog_fru": 0.0, 
+    "fac_eye": 0.0, 
+    "pow_all": 0.0325, 
+    "fac_lid": 0.0
+  }, 
+  "deltas": {
+    "cog_exc": 0.0, 
+    "cog_eng": 0.0, 
+    "fac_all": 0.0, 
+    "cog_all": 0.0, 
+    "cog_int": 0.0, 
+    "fac_low": 0.0, 
+    "fac_upp": 0.0, 
+    "cog_rel": 0.0, 
+    "cog_foc": 0.0, 
+    "pow_all": 0.0, 
+    "fac_eye": 0.0, 
+    "cog_fru": 0.0, 
+    "fac_lid": 0.0
+  }, 
+  "actual": {
+    "cog_exc": 0.0, 
+    "cog_eng": 25.8997, 
+    "fac_all": 11.6138, 
+    "cog_all": 372.2862, 
+    "cog_foc": 26.5844, 
+    "cog_rel": 30.7444, 
+    "cog_int": 366.1228, 
+    "fac_low": 2.9034, 
+    "fac_upp": 4.4401, 
+    "cog_fru": 18.0807, 
+    "fac_eye": 0.0, 
+    "pow_all": 16647.3964, 
+    "fac_lid": 2.0
+  }, 
+  "target": {
+    "cog_exc": 0.0, 
+    "cog_eng": 25.8997, 
+    "fac_all": 11.6138, 
+    "cog_all": 372.2862, 
+    "cog_foc": 26.5844, 
+    "cog_rel": 30.7444, 
+    "cog_int": 366.1228, 
+    "fac_low": 2.9034, 
+    "fac_upp": 4.4401, 
+    "cog_fru": 18.0807, 
+    "fac_eye": 0.0, 
+    "pow_all": 16647.3964, 
+    "fac_lid": 2.0
+  }
+}

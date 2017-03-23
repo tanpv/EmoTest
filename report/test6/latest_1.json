@@ -1,0 +1,62 @@
+{
+  "errors": {
+    "cog_exc": 0.0, 
+    "cog_eng": 0.0, 
+    "fac_all": 0.0, 
+    "cog_all": 0.0, 
+    "cog_foc": 0.0, 
+    "cog_rel": 0.0, 
+    "cog_int": 0.0, 
+    "fac_low": 0.0, 
+    "fac_upp": 0.0, 
+    "cog_fru": 0.0, 
+    "fac_eye": 0.0, 
+    "pow_all": 100227.9093, 
+    "fac_lid": 0.0
+  }, 
+  "deltas": {
+    "cog_exc": 0.0, 
+    "cog_eng": 0.0, 
+    "fac_all": 0.0, 
+    "cog_all": 0.0, 
+    "cog_int": 0.0, 
+    "fac_low": 0.0, 
+    "fac_upp": 0.0, 
+    "cog_rel": 0.0, 
+    "cog_foc": 0.0, 
+    "pow_all": 0.0, 
+    "fac_eye": 0.0, 
+    "cog_fru": 0.0, 
+    "fac_lid": 0.0
+  }, 
+  "actual": {
+    "cog_exc": 0.0, 
+    "cog_eng": 36.4727, 
+    "fac_all": 17.6511, 
+    "cog_all": 315.6184, 
+    "cog_foc": 20.1157, 
+    "cog_rel": 39.7472, 
+    "cog_int": 480.479, 
+    "fac_low": 0.0, 
+    "fac_upp": 17.0752, 
+    "cog_fru": 14.2125, 
+    "fac_eye": 0.0, 
+    "pow_all": 988193.7765, 
+    "fac_lid": 4.4721
+  }, 
+  "target": {
+    "cog_exc": 0.0, 
+    "cog_eng": 36.4727, 
+    "fac_all": 17.6511, 
+    "cog_all": 315.6184, 
+    "cog_foc": 20.1157, 
+    "cog_rel": 39.7472, 
+    "cog_int": 480.479, 
+    "fac_low": 0.0, 
+    "fac_upp": 17.0752, 
+    "cog_fru": 14.2125, 
+    "fac_eye": 0.0, 
+    "pow_all": 988193.7765, 
+    "fac_lid": 4.4721
+  }
+}
