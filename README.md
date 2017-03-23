@@ -2,6 +2,15 @@
 ## Usage 
 
 ```
+    1. Create scenarioName folder and put a edf file inside.
+    2. Run convert script to generate to edf file 
+        Eg : to generate the target.csv for first time : convert.py -f .\scenes\test_x\                        -> target.csv in .\scene\test_x\
+             to generate the latest.csv for next time  : convert.py -f .\scenes\test_x\ -d .\output\test_x\    -> latest.csv in .\ouput\test_x\
+    3. Run compare script
+        Eg : pytest --junitxml results.xml compare.py     -> the result : latest.json  in .\report\test_x\ and .\result.xml
+
+
+
 $ pytest --junitxml results.xml compare.py
 
 ============================= test session starts =============================                 
@@ -83,13 +92,6 @@ compare.py:60: AssertionError
 - results.xml     // xunit compatible results
 ```
 
-####HOW TO GET REPORT
-    1. create a folder and put a edf file inside.
-    2. Run convert script to generate to edf file 
-        Eg : to generate the target.csv for first time : convert.py -f .\scenes\test_x\                        -> target.csv in .\scene\test_x\
-             to generate the latest.csv for next time  : convert.py -f .\scenes\test_x\ -d .\output\test_x\    -> latest.csv in .\ouput\test_x\
-    3. Run compare script
-        Eg : compare.py     -> the result : latest.json  in .\report\test_x\
     
 
 
